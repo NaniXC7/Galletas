@@ -11,6 +11,7 @@ package com.mycompany.galletas;
 public class Galletas {
 
     public static void main(String[] args) {
+       
         new galle().setVisible(true);
     }
 }
